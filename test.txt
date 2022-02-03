@@ -11,3 +11,5 @@ git remote add ggm https://github.com/NaeunKk/gitggm.git
 
 git config --global user.name "~"
 git config --global user.email "~"
+
+qowej
